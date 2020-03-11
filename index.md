@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 我的静坐练习记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/MyPracticeSittingQuietlyRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+静坐是一种很特别的放松方式，不知道你是否也有过这样的经历，当你遇到烦恼或者感到很情绪很冲动的时候，安静的盘坐着闭目养神保持一段时间，你会发现你很快能平静下来，而且常常会帮助到你想到问题的解决办法。当然，静坐也是需要耐心和练习的。你可以记录你每次静坐练习计划的时间，实际练习的时间以及静坐获得的心得体会和感受等,帮助你更好的管理自己。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MyPracticeSittingQuietlyRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
